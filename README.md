@@ -6,6 +6,7 @@ Este projeto faz parte do curso de Formação Cientista de Dados da [Data Scienc
 
 Para este projeto, foi utilizada a linguagem Python para desenvolvimento através do Jupyter Notebook.
 Também foi utilizada linguagem SQL para auxílio nas consultas aos dados, facilitando a geração dos gráficos com os dados obtidos.
+O arquivo do Jupyter Notebook com o projeto encontra-se na pasta "Projeto03", juntamente do dataset utilizado.
 
 ## 🗄️ Dataset
 
